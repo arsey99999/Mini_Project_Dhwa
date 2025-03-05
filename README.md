@@ -1,1 +1,1 @@
-<h1>Storybook rental service</h1>
+<h3>Storybook rental service</h3>
